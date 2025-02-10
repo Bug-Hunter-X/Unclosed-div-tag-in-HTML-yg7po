@@ -1,0 +1,1 @@
+This repository demonstrates a common HTML error: an unclosed div tag.  Unclosed tags can lead to unexpected layout issues and impact the overall rendering of your webpage.  The `bug.html` file contains the erroneous code, while `bugSolution.html` shows the corrected version with properly closed tags.
